@@ -6,3 +6,10 @@ SRS-5: The software shall generate a multiplier in the range 1-12.
 SRS-6: The software shall generate a multiplicand in the range 1-12.
 SRS-7: The software shall generate a product equal to the multiplication of the multiplicand and the multiplier.
 SRS-8: The software shall store the product in a csv file.
+SRS-9: The software shall identify math problems of interest.
+SRS-10: The software shall mark problems with a rank of 1-5.
+SRS-11: The software shall assign a rank of 1 to response times greater than 5 minutes.
+SRS-12: The software shall assign a rank of 2 to response times greater than 4 minutes.
+SRS-13: The software shall assign a rank of 3 to response times greater than 3 minutes.
+SRS-14: The software shall assign a rank of 4 to response times greater than 2 mnutes.
+SRS-15: The software shall assign a rank of 5 to response times greater than 1 minute.
