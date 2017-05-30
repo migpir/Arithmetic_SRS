@@ -6,3 +6,7 @@ SRS-5: The software shall generate a multiplier in the range 1-12.
 SRS-6: The software shall generate a multiplicand in the range 1-12.
 SRS-7: The software shall generate a product equal to the multiplication of the multiplicand and the multiplier.
 SRS-8: The software shall store the product in a csv file.
+SRS-9: The software shall maintain a 12x12 matrix of student latency values by averaging values.
+SRS-10: The software shall calculate the average latency by the student's response to a problem.
+SRS-11: The software shall start a timer once the multiplication problem is displayed.
+SRS-12: The software shall obtain the difference in time once the student presses the ENTER key along with the answer.
